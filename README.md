@@ -1,5 +1,5 @@
 # php-comment-view-project
-This project show the comment what the people have commented after their regedtration
+This project show the comment what the people have commented after their registration
   To run this project 
   download xampp software install it setup localhost
   goto your favourite browser typein localhost/phpmyadmin it loads for you mysql databae
